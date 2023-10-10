@@ -28,6 +28,6 @@ models: same .ipynb file saved
 
 report: contains experimental report 1 and 2 & final report
 
-src: additonal experiment ipynb using all the features on linear regression and random forest model
+src: additonal experiment ipynb using all the features on linear regression and random forest model and functions.txt file
 
 
