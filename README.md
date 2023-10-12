@@ -20,14 +20,16 @@ I performed three models:
 3. ARIMA
    
 **Instructions**
-folder contains:
+src/models : This folder contains API files
 
-notebooks: best model of the prediction
+src: functions.txt file
 
-models: same .ipynb file saved 
+notebooks: All the expeiment notebooks
 
-report: contains experimental report 1 and 2 & final report
+models: best model of predictive and forecast
 
-src: additonal experiment ipynb using all the features on linear regression and random forest model and functions.txt file
+report: It contains experimental report 1 and 2 & final report.
+
+
 
 
