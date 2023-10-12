@@ -30,7 +30,7 @@ notebooks: All the expeiment notebooks
 
 models: best model of predictive and forecast
 
-report: It contains experimental report 1 and 2 & final report.
+report: It contains experimental report 1, 2 & final report.
 
 
 
