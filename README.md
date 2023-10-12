@@ -26,7 +26,7 @@ src: functions.txt file
 
 notebooks: All the expeiment notebooks
 
-(Note: I have performed total 3 experiments on model 1, two of them are in the same ipynb file(linear regression and random forest) and other one is seperate(using all the features)
+(Note: I have performed total 3 experiments on model 1, two of them are in the same ipynb file(linear regression and random forest) and other one is seperate(using all the features linear regression)
 
 models: best model of predictive and forecast
 
