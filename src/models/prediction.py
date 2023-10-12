@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 
 # Load the CSV data into a DataFrame
-sales_data = pd.read_csv('sales_data.csv')
+sales_data = pd.read_csv('merged_data.csv')
 
 # Define the API endpoint URL
 api_url = 'https://github.com/asmitaskamble/AT2_ML-as-a-Service.git/sales/stores/items/'
